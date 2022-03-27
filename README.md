@@ -1,2 +1,9 @@
 # _First_Real-Time-Face-Emotion-Recognition-Using-Tenserflow
-These Human facial expressions convey a lot of information visually rather than articulately. Facial expression recognition plays a crucial role in the area of human-machine interaction. Automatic facial expression recognition system has many applications including, but not limited to, human behavior understanding, detection of mental disorders, and synthetic human expressions. Recognition of facial expression by computer with high recognition rate is still a challenging task. Two popular methods utilized mostly in the literature for the automatic FER systems are based on geometry and appearance. Facial Expression Recognition usually performed in four-stages consisting of pre-processing, face detection, feature extraction, and expression classification. In this project we applied various deep learning methods (convolutional neural networks) to identify the key seven human emotions: anger, disgust, fear, happiness, sadness, surprise and neutrality.
+
+Outputs and Statistics
+
+![angry](https://user-images.githubusercontent.com/98620582/160296130-51c56b56-b21d-4380-aa99-b75f90fa04d9.png)
+
+![happy](https://user-images.githubusercontent.com/98620582/160296151-a76323b8-55df-4d09-a0c0-4e2614535fe5.png)
+
+![sad_2](https://user-images.githubusercontent.com/98620582/160296159-522d4b00-61ba-4032-9aa8-92820f2f8075.png)
